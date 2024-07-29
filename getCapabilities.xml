@@ -224,6 +224,16 @@
 				<Title>washout</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:ma_ipa_pdam_kab_tabanan</Name>
+				<Title>ma_ipa_pdam_kab_tabanan</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:wm_pelanggan_tabanan</Name>
+				<Title>wm_pelanggan_tabanan</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
